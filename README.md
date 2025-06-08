@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Welcome to Algo Trading with PK
 
-<!--
-**AlgoTrading379/AlgoTrading379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building and sharing live-tested, profitable algo trading strategies for Indian markets (Nifty, Sensex, BankNifty).
 
-Here are some ideas to get you started:
+### 💼 What I Offer
+- ✅ Nifty & Sensex 0DTE Strategies
+- 📈 Calendar Spreads
+- 💹 Credit Spreads
+- 🎯 Performance-backed models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Join My Community
+- 📢 Telegram Channel: [@algotrading379](https://t.me/algotrading379)
+- 📩 DM for access: [@Pk28169](https://t.me/Pk28169)
+
+### 🛒 Buy My Strategies
+- Available at: [AlgoTrading379.github.io](https://AlgoTrading379.github.io)
+
